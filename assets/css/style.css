@@ -618,10 +618,12 @@ html, body {
 	font-family: 'Poppins';
 	font-size: 12px;
 	font-weight: 400;
-	color: #343434;
-	line-height: 1.2;
+	color: #111111;
 	letter-spacing: 1px;
 	text-decoration: none;
+	line-height: 1.5;
+	margin-right: 10px;
+	display: inline;
 }
 
 
